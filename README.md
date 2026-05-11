@@ -1,4 +1,4 @@
-# pc-stoptraffic
+# pulsar-stoptraffic
 
 Traffic control zones for FiveM/QBCore.
 
@@ -136,7 +136,7 @@ You can translate everything from `config.lua` without changing script logic.
 
 ## Installation
 
-1. Put `pc-stoptraffic` in your resources folder.
+1. Put `pulsar-stoptraffic` in your resources folder.
 2. Ensure dependencies are started.
 3. Add this resource to your server config.
 
@@ -145,7 +145,7 @@ Example:
 ```cfg
 ensure ox_lib
 ensure qb-core
-ensure pc-stoptraffic
+ensure pulsar-stoptraffic
 ```
 
 ---

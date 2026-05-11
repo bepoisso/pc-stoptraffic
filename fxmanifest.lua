@@ -3,8 +3,8 @@ game 'gta5'
 
 lua54 'yes'
 
-name 'pc-stoptraffic'
-author 'pc'
+name 'pulsar-stoptraffic'
+author 'Pulsar'
 description 'Stop traffic zone (job restricted) with ox_lib UI'
 version '1.0.0'
 
